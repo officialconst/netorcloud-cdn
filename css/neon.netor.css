@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+/* NetorServer CDN Provided
+ * SPACELAKE Neon UI CSS Pack for Bootstrap
+ * CSS Made by SPACELAKE (spacelake.net)
+ * Copyright 2021. SPACELAKE all rights reserved.
+ */
+
+
+/* SPACELAKE NetorPage */
+
+.netorpage-box {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1.5px;
+}
+
+.netorpage-hr {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.netorpage-btn {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.netorpage-form-input {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+    background-color: #ffffff !important;
+}
+
+/* SPACELAKE OfficialWebsite */
+
+.introduce-box {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #4facfe 0%, #00f2fe 100%);
+    border-image-slice: 1;
+    border-image-width: 1.5px;
+}
+
+.introduce-hr {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #4facfe 0%, #00f2fe 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.introduce-btn {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #4facfe 0%, #00f2fe 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.introduce-form-input {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #4facfe 0%, #00f2fe 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+    background-color: #ffffff !important;
+}
+
+/* SPACELAKE Neon */
+
+.box-neon {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1.5px;
+}
+
+.hr-neon {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.btn-neon {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.form-input-neon {
+    border-style: solid;
+    border-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+    background-color: #ffffff !important;
+}
+
+/* SPACELAKE Sunset */
+
+.box-sunset {
+    border-style: solid;
+    border-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    border-image-slice: 1;
+    border-image-width: 1.5px;
+}
+
+.hr-sunset {
+    border-style: solid;
+    border-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.btn-sunset {
+    border-style: solid;
+    border-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+}
+
+.form-input-sunset {
+    border-style: solid;
+    border-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    border-image-slice: 1;
+    border-image-width: 1px;
+    background-color: #ffffff !important;
+}

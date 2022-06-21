@@ -1,0 +1,156 @@
+@charset "UTF-8";
+@import url('https://cdn.netor.cloud/css/font.netor.css');
+* {
+    font-family: 'Spoqa Han Sans Neo' !important;
+}
+
+.story-content-overlay__title {
+    /* font-family: 'IBM Plex Sans KR' !important; */
+    font-weight: 500 !important;
+}
+
+body.post-type-archive-web-story>div.site-main>article {
+    text-align: center !important;
+}
+
+.post-type-archive-web-story>.entry-header,
+.post-thumbnail,
+.entry-footer {
+    display: none !important;
+}
+
+h1.page-title {
+    font-size: 3rem !important;
+    font-weight: 400 !important;
+    text-align: center !important;
+}
+
+h1.entry-title {
+    font-size: 3rem !important;
+    font-weight: 400 !important;
+    text-align: center !important;
+}
+
+
+/*
+h2.widget-title {
+	font-family: 'NanumGothic' !important;
+	font-weight: 700 !important;
+}
+
+form>label {
+	font-family: 'NanumGothic' !important;
+	font-weight: 700 !important;
+}
+
+.wp-block-column.is-vertically-aligned-top>p {
+	font-family: 'NanumGothic' !important;
+}
+
+.wp-block-column.is-vertically-aligned-top>p>strong {
+	font-family: 'NanumGothic' !important;
+}
+
+.wp-block-column.is-vertically-aligned-top>p>strong>a {
+	font-family: 'NanumGothic' !important;
+}
+
+.wp-block-column.is-vertically-aligned-top>p>strong>strong {
+	font-family: 'NanumGothic' !important;
+}
+
+div.entry-content>h2 {
+	font-family: 'IBMPlexSansKR' !important;
+	font-weight: 100 !important;
+}
+
+.wp-block-cover__inner-container>h1 {
+	font-weight: 200 !important;
+}
+
+.button.checkout.wc-forward {
+	background-color: #ffd500;
+}
+
+.button.checkout.wc-forward:hover {
+	background-color: #000000;
+}
+
+p.woocommerce-mini-cart__buttons.buttons > a {
+	background-color: #ffffff;
+}
+
+p.woocommerce-mini-cart__buttons.buttons > a:hover {
+	background-color: #ffd500;
+}
+
+.product-thumbnail > a > img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail {
+	max-width: 80px !important;
+}
+
+div.coupon > button.button {
+	line-height: 1.7 !important;
+	padding: 10px !important;
+		margin: none !important;
+		font-size: 1.3rem !important;
+	background-color: #ffd500 !important;
+}
+
+div.coupon > button.button:hover {
+background-color: #000000 !important;
+}
+
+input.search-submit {
+	width: 100% !important;
+}
+
+div.coupon > input.input-text {
+	line-height: 1.7 !important;
+	padding: 10px !important;
+	margin: none !important;
+	font-size: 1.3rem !important;
+} 
+
+td.actions > button.button {
+		line-height: 1.7 !important;
+	padding: 10px !important;
+	margin: none !important;
+	font-size: 1.3rem !important;
+		background-color: #ffd500 !important;
+}
+
+td.actions > button.button:hover {
+		background-color: #000000 !important;
+}
+
+.search-form > input.search-submit {
+	background-color: #ffd500 !Important;
+}
+
+.search-form > input.search-submit:hover {
+	background-color: #000000 !Important;
+}
+
+div.cart-collaterals > div.cart_totals.calculated_shipping > div.wc-proceed-to-checkout > a.checkout-button.button.alt.wc-forward {
+		background-color: #ffd500 !important;
+	color: #000000 !important;
+}
+
+div.cart-collaterals > div.cart_totals.calculated_shipping > div.wc-proceed-to-checkout > a.checkout-button.button.alt.wc-forward:hover {
+		background-color: #000000 !important;
+	color: #ffffff !important;
+}
+
+.entry-title {
+	text-align: center !important;
+	font-weight: 400 !important;
+	font-size: 3rem !important;
+}
+
+.woocommerce-MyAccount-content > p {
+	font-size: 1.3rem !important;
+}
+
+.woocommerce-MyAccount-navigation > ul > li > a {
+	font-size: 1.5rem !important;
+} */

@@ -1,0 +1,47 @@
+.card-pastel {
+    border-radius: 15px;
+}
+
+.btn-pastel {
+    border-radius: 10px;
+}
+
+.bg-primary-pastel {
+    background-color: #c5eafe;
+}
+
+.bg-warning-pastel {
+    background-color: #fef6d8;
+}
+
+.bg-info-pastel {
+    background-color: #c7f7f2;
+}
+
+.bg-danger-pastel {
+    background-color: #f5ccd7;
+}
+
+.bg-success-pastel {
+    background-color: #ccf8da;
+}
+
+.text-primary-pastel {
+    color: #7eaef0;
+}
+
+.text-warning-pastel {
+    color: #fef6d8;
+}
+
+.text-info-pastel {
+    color: #c7f7f2;
+}
+
+.text-danger-pastel {
+    color: #f5ccd7;
+}
+
+.text-success-pastel {
+    color: #ccf8da;
+}
