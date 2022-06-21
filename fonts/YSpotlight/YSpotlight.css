@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'YSpotlight';
+    font-style: normal;
+    font-weight: 400;
+    src: local('YSpotlight'),
+        url('./webfonts/YSpotlight.woff') format('woff');
+        font-display: swap;
+}

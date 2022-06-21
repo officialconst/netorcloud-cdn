@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('※'),
+        url('./webfonts/NanumMyeongjoR.woff2') format('woff2'), 
+        url('./webfonts/NanumMyeongjoR.woff') format('woff'),
+        url('./webfonts/NanumMyeongjoR.ttf') format('truetype'),
+        url('./webfonts/NanumMyeongjoR.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 700;
+    src: local('※'),
+        url('./webfonts/NanumMyeongjoB.woff2') format('woff2'), 
+        url('./webfonts/NanumMyeongjoB.woff') format('woff'),
+        url('./webfonts/NanumMyeongjoB.ttf') format('truetype'),
+        url('./webfonts/NanumMyeongjoB.eot') format('embedded-opentype');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 900;
+    src: local('※'),
+        url('./webfonts/NanumMyeongjoEB.woff2') format('woff2'), 
+        url('./webfonts/NanumMyeongjoEB.woff') format('woff'),
+        url('./webfonts/NanumMyeongjoEB.ttf') format('truetype'),
+        url('./webfonts/NanumMyeongjoEB.eot') format('embedded-opentype');
+}

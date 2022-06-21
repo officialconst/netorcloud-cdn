@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'MaruBuri';
+    src: url('./webfonts/MaruBuri-Light.eot');
+    src: url('./webfonts/MaruBuri-Light.eot?#iefix') format('embedded-opentype'),
+        url('./webfonts/MaruBuri-Light.woff2') format('woff2'),
+        url('./webfonts/MaruBuri-Light.woff') format('woff'),
+        url('./webfonts/MaruBuri-Light.ttf') format('truetype'),
+        url('./webfonts/MaruBuri-Light.svg#MaruBuri-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MaruBuri';
+    src: url('./webfonts/MaruBuri-Bold.eot');
+    src: url('./webfonts/MaruBuri-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./webfonts/MaruBuri-Bold.woff2') format('woff2'),
+        url('./webfonts/MaruBuri-Bold.woff') format('woff'),
+        url('./webfonts/MaruBuri-Bold.ttf') format('truetype'),
+        url('./webfonts/MaruBuri-Bold.svg#MaruBuri-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MAaruBuri';
+    src: url('./webfonts/MaruBuri-ExtraLight.eot');
+    src: url('./webfonts/MaruBuri-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('./webfonts/MaruBuri-ExtraLight.woff2') format('woff2'),
+        url('./webfonts/MaruBuri-ExtraLight.woff') format('woff'),
+        url('./webfonts/MaruBuri-ExtraLight.ttf') format('truetype'),
+        url('./webfonts/MaruBuri-ExtraLight.svg#MaruBuri-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MaruBuri';
+    src: url('./webfonts/MaruBuri-SemiBold.eot');
+    src: url('./webfonts/MaruBuri-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('./webfonts/MaruBuri-SemiBold.woff2') format('woff2'),
+        url('./webfonts/MaruBuri-SemiBold.woff') format('woff'),
+        url('./webfonts/MaruBuri-SemiBold.ttf') format('truetype'),
+        url('./webfonts/MaruBuri-SemiBold.svg#MaruBuri-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MaruBuri';
+    src: url('./webfonts/MaruBuri-Regular.eot');
+    src: url('./webfonts/MaruBuri-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./webfonts/MaruBuri-Regular.woff2') format('woff2'),
+        url('./webfonts/MaruBuri-Regular.woff') format('woff'),
+        url('./webfonts/MaruBuri-Regular.ttf') format('truetype'),
+        url('./webfonts/MaruBuri-Regular.svg#MaruBuri-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
